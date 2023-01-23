@@ -1,4 +1,4 @@
-#### 👋 Hey, I'm Juan! A Systems engineering student and self-taught I'm mostly a back-end developer with the help of places like The Odin Project and Fullstackopen. I'm always up for new challenges and always open to learn new technologies! 
+#### 👋 Hey, I'm Juan! A Systems engineering student and self-taught back-end developer with the help of places like The Odin Project and Fullstackopen. I'm always up for new challenges and always open to learn new technologies! 
 
 
 #### :hammer_and_wrench: Competent at (Yet always trying to improve):
