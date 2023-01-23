@@ -28,4 +28,4 @@
   - Big One Piece fan 🏴‍☠️
 
 
-#### 🗣️: If you want to reach out to me you can do it via Discord (Halcyon#4764) or email me to juanmhsh1981@gmail.com !
+#### 🗣️ If you want to reach out to me you can do it via Discord (Halcyon#4764) or email me to juanmhsh1981@gmail.com !
