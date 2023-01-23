@@ -24,4 +24,4 @@
 ##### - I was a professional FPS fps for some time at titles like Overwatch, Paladins and Apex.
 ##### - Love to walk w/ my gf and our dog :heart: (And ocassionaly stop at a random cafes :coffee:)
 
-#### If you want to reach out to me you can do it via Discord (Halcyon#4764) or email me to juanmhsh1981@gmail.com !
+#### 🗣️: If you want to reach out to me you can do it via Discord (Halcyon#4764) or email me to juanmhsh1981@gmail.com !
