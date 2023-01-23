@@ -27,7 +27,7 @@
 ##### - Big enthusiast of FPS games. Although I have a special place in my heart for Dota 2.
 ##### - Used to really like streaming ( Don't really have the time anymore :( )
 ##### - I was a professional FPS fps for some time at titles like Overwatch, Paladins and Apex.
-##### - Love to walk w/ my gf and our dog :heart: (And ocassionaly stop at a random cafes :coffee:)
+##### - Love to have walks at the beach w/ my gf and our dog :heart: (And ocassionaly stop at a random cafes at our way home :coffee:)
 ##### - Big One Piece fan 🏴‍☠️
 
 
