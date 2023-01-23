@@ -1,7 +1,7 @@
 #### 👋 Hey, I'm Juan! A Systems engineering student and self-taught back-end developer with the help of places like The Odin Project and Fullstackopen. I'm always up for new challenges and always open to learn new technologies! 
 
 
-#### - :hammer_and_wrench: Competent at (Yet always trying to improve):
+#### :hammer_and_wrench: Competent at (Yet always trying to improve):
 #####  - Javascript
 #####  - Typescript
 #####  - Node/Express
@@ -11,7 +11,7 @@
 #####  - ORM/ODMs such as Prisma, Sequelize and Mongoose.
 
 
-#### - :technologist: Would like to learn/get better with:
+#### :technologist: Would like to learn/get better with:
 #####  - OAuth.
 #####  - Websockets.
 #####  - Event queue.
@@ -20,7 +20,7 @@
 #####  - CSS. (Although I have the basics, I want to get better at it since it's mostly my weakness while doing front.)
 
 
-#### - :raised_hands: Random things about me/ what I enjoy:
+#### :raised_hands: Random things about me/ what I enjoy:
 #####  - Big enthusiast of FPS games. Although I have a special place in my heart for Dota 2.
 #####  - Used to really like streaming ( Don't really have the time anymore :( )
 #####  - I was a professional FPS fps for some time at titles like Overwatch, Paladins and Apex.
