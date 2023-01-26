@@ -7,8 +7,9 @@
   - Node/Express
   - React
   - Relational and no-relational dbs.
-  - PostgreSQL, MySQL, MongoDB, S3, Redis.
+  - PostgreSQL, MySQL, MongoDB, 
   - ORM/ODMs such as Prisma, Sequelize and Mongoose.
+  - S3, Redis.
 
 
 #### :technologist: Would like to learn/get better with:
