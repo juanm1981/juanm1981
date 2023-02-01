@@ -13,9 +13,9 @@
 
 
 #### :technologist: Would like to learn/get better with:
+  - Spring. (Currently on it.)
   - OAuth.
   - Websockets.
-  - Event queue.
   - Architectural Patterns.
   - Testing. (I still have ways to go in order to write proper testing.)
   - CSS. (Although I have the basics, I want to get better at it since it's mostly my weakness while doing front.)
