@@ -6,6 +6,7 @@
   - Typescript
   - Node/Express
   - React
+  - C# / .NET
   - Relational and no-relational dbs.
   - PostgreSQL, MySQL, MongoDB, 
   - ORM/ODMs such as Prisma, Sequelize and Mongoose.
