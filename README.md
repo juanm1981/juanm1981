@@ -7,20 +7,11 @@
   - Node/Express
   - React
   - C# / .NET
+  - Java / Spring
   - Relational and no-relational dbs.
   - PostgreSQL, MySQL, MongoDB, 
   - ORM/ODMs such as Prisma, Sequelize and Mongoose.
   - S3, Redis.
-
-
-#### :technologist: Would like to learn/get better with:
-  - Spring. (Currently on it.)
-  - OAuth.
-  - Websockets.
-  - Architectural Patterns.
-  - Testing. (I still have ways to go in order to write proper testing.)
-  - CSS. (Although I have the basics, I want to get better at it since it's mostly my weakness while doing front.)
-
 
 #### :raised_hands: Random things about me/ what I enjoy:
   - Big enthusiast of FPS games. Although I have a special place in my heart for Dota 2.
